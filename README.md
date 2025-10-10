@@ -1477,4 +1477,4 @@ Pour toute question, suggestion ou problème, n'hésitez pas à :
 
 --- 
 
-*Dernière mise à jour : 12 octobre 2025  
+*Dernière mise à jour : 12 octobre 2025*
