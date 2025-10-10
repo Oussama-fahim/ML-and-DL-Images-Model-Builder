@@ -1470,14 +1470,11 @@ Le **ML/DL Image Model Builder** représente une plateforme complète et accessi
 
 Pour toute question, suggestion ou problème, n'hésitez pas à :
 
-- 📧 **Email** : support@ml-dl-builder.com
-- 💬 **Discord** : [Lien vers le serveur Discord]
-- 🐛 **Issues** : [Lien vers le repository GitHub]
-- 📖 **Documentation** : [Lien vers la documentation en ligne]
+- 📧 **Email** : Oussamafahim@gmail.com
+- 💬 **Téléphone** : 0645468306
 
-**Développé avec ❤️ pour la communauté ML/DL**
+**Développé avec ❤️ pour le projet de monsieur Tawfik masrour**
 
 --- 
 
-*Dernière mise à jour : Janvier 2024*  
-*Version : 1.0.0*
+*Dernière mise à jour : 12 octobre 2025  
