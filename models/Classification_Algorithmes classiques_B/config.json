@@ -1,0 +1,30 @@
+{
+    "problem_type": "Classification",
+    "num_classes": 2,
+    "method_type": "Algorithmes classiques",
+    "model_name": "B",
+    "class_names": [
+        "Oussama",
+        "fatima"
+    ],
+    "algorithm": "Random Forest",
+    "algorithm_key": "random_forest",
+    "image_target_size": [
+        64,
+        64
+    ],
+    "use_vgg": false,
+    "feature_method": "HOG",
+    "train_size": 0.8,
+    "validation_method": "Validation crois\u00e9e (Cross-validation)",
+    "use_class_weight": false,
+    "cv_folds": 5,
+    "param_method": "Configuration manuelle",
+    "params": {
+        "n_estimators": 202,
+        "max_depth": 10,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1
+    },
+    "model_type_saved": "sklearn"
+}

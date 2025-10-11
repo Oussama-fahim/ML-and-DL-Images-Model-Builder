@@ -1,0 +1,25 @@
+{
+    "problem_type": "Classification",
+    "num_classes": 3,
+    "method_type": "R\u00e9seaux de neurones",
+    "model_name": "A",
+    "class_names": [
+        "0",
+        "1",
+        "2"
+    ],
+    "algorithm": "CNN Simple",
+    "algorithm_key": "cnn_simple",
+    "image_target_size": [
+        64,
+        64
+    ],
+    "use_vgg": false,
+    "train_size": 0.7,
+    "validation_method": "Split train/test",
+    "use_class_weight": false,
+    "cv_folds": 5,
+    "param_method": "Param\u00e8tres par d\u00e9faut",
+    "params": {},
+    "model_type_saved": "keras"
+}

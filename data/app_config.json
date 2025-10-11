@@ -1,0 +1,85 @@
+{
+    "models": {
+        "A": {
+            "name": "A",
+            "type": "R\u00e9seaux de neurones",
+            "problem_type": "Classification",
+            "created_at": "2025-10-11 03:28:00",
+            "metrics": {
+                "accuracy": 0.9482758620689655,
+                "precision": 0.9506371814092952,
+                "recall": 0.9482758620689655,
+                "f1_score": 0.9479940318302387
+            },
+            "config": {
+                "problem_type": "Classification",
+                "num_classes": 3,
+                "method_type": "R\u00e9seaux de neurones",
+                "model_name": "A",
+                "class_names": [
+                    "0",
+                    "1",
+                    "2"
+                ],
+                "algorithm": "CNN Simple",
+                "algorithm_key": "cnn_simple",
+                "image_target_size": [
+                    64,
+                    64
+                ],
+                "use_vgg": false,
+                "train_size": 0.7,
+                "validation_method": "Split train/test",
+                "use_class_weight": false,
+                "cv_folds": 5,
+                "param_method": "Param\u00e8tres par d\u00e9faut",
+                "params": {},
+                "model_type_saved": "keras"
+            }
+        },
+        "B": {
+            "name": "B",
+            "type": "Algorithmes classiques",
+            "problem_type": "Classification",
+            "created_at": "2025-10-11 03:32:58",
+            "metrics": {
+                "accuracy": 0.8333333333333334,
+                "precision": 0.8717948717948718,
+                "recall": 0.8333333333333334,
+                "f1_score": 0.8249721293199553,
+                "auc": 0.9875
+            },
+            "config": {
+                "problem_type": "Classification",
+                "num_classes": 2,
+                "method_type": "Algorithmes classiques",
+                "model_name": "B",
+                "class_names": [
+                    "Oussama",
+                    "fatima"
+                ],
+                "algorithm": "Random Forest",
+                "algorithm_key": "random_forest",
+                "image_target_size": [
+                    64,
+                    64
+                ],
+                "use_vgg": false,
+                "feature_method": "HOG",
+                "train_size": 0.8,
+                "validation_method": "Validation crois\u00e9e (Cross-validation)",
+                "use_class_weight": false,
+                "cv_folds": 5,
+                "param_method": "Configuration manuelle",
+                "params": {
+                    "n_estimators": 202,
+                    "max_depth": 10,
+                    "min_samples_split": 2,
+                    "min_samples_leaf": 1
+                },
+                "model_type_saved": "sklearn"
+            }
+        }
+    },
+    "current_model": null
+}
