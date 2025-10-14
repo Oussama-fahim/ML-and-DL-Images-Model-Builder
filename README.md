@@ -1470,7 +1470,7 @@ Le **ML/DL Image Model Builder** représente une plateforme complète et accessi
 
 Pour toute question, suggestion ou problème, n'hésitez pas à :
 
-- 📧 **Email** : Oussamafahim@gmail.com
+- 📧 **Email** : Oussamafahim2017@gmail.com
 - 💬 **Téléphone** : 0645468306
 
 **Développé avec ❤️ pour le projet de monsieur Tawfik masrour**
